@@ -4,7 +4,7 @@
 
 rm(list = ls())
 # Set work folder
-setwd("F:/tempsave/LightImage/Github/")
+# setwd("")
 library(raster)
 library(rgdal)
 library(maptools)
